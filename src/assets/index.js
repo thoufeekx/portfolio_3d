@@ -121,5 +121,4 @@ export {
 
   raspi,
   arduino,
-  linux,
 };
