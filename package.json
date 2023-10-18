@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://thoufeekx.github.io/portfolio3d",
+  "homepage": "https://thoufeekx.github.io/portfolio3d",
   "scripts": {
     "dev": "vite",
     "predeploy" : "npm run build",
