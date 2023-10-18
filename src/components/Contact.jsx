@@ -80,6 +80,11 @@ const Contact = () => {
       >
         <p className={styles.sectionSubText}>Get in touch</p>
         <h3 className={styles.sectionHeadText}>Contact.</h3>
+        <p className="font-bold">Gmail: thoufeekbaber1@gmail.com</p>
+        <p className="font-bold">Instagram: @thoufeekx</p>
+        <p className="font-bold">X: @thoufeekx</p>
+
+
 
         <form
           ref={formRef}
