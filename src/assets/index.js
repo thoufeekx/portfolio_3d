@@ -30,6 +30,40 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import logo_r from "./logo_r.jpeg"
+import python from "./python_logo.png"
+import sci_kit from "./scikit_learn.png"
+import pytorch from "./pytorch.svg"
+import data from "./Data.png"
+import database from "./database.png"
+
+import node from "./nodejs.svg"
+import webdev from "./webdev.svg"
+import react_lg from "./react.png"
+
+
+
+import msigma from "./msigma.jpg"
+import neuralnet from "./neural_net.png"
+import dna from "./dna.png"
+import graph from "./graph.png"
+
+import fuel from "./fuel.jpg"
+import segments from "./segments.png"
+import nn_net from "./accident.jpg"
+
+import person_1 from "./person_1.jpg"
+import person_2 from "./person_2.png"
+
+import raspi from "./raspi.png"
+import arduino from "./arduino.png"
+
+import linux from "./linux.png"
+
+
+
+
+
 export {
   logo,
   backend,
@@ -59,4 +93,33 @@ export {
   carrent,
   jobit,
   tripguide,
+
+  logo_r,
+  python,
+  sci_kit,
+  pytorch,
+  data,
+  database,
+  linux,
+
+  react_lg,
+  webdev,
+  node,
+
+  msigma,
+  neuralnet,
+  dna,
+  graph,
+
+
+  fuel,
+  segments,
+  nn_net,
+
+  person_1,
+  person_2,
+
+  raspi,
+  arduino,
+  linux,
 };
